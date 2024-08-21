@@ -1,4 +1,6 @@
 - Crawling lottery results over 20 consecutive years (assuming 365 days per year) using Selenium.
+
+  ![image](https://github.com/user-attachments/assets/5b23fa7a-c521-4591-80a9-f0b6bd6b8dc9)
   
   ![image](https://github.com/user-attachments/assets/bd00f86c-0fed-477e-8315-551028d894b5)
   
